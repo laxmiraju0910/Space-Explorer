@@ -5,7 +5,9 @@ Space Explorer
 Space Explorer is a simple and interactive space-themed website built using HTML and CSS.
 It provides basic information about planets, famous space missions, recent space news, and a visual gallery of space images.
 
+
 FEATURES:
+
 Hero Section – Welcome section with a call-to-action button.
 
 Planets Section – Cards displaying planets with descriptions and images.
@@ -23,6 +25,7 @@ Responsive Layout – Works on different screen sizes.
 Hover Animations – Interactive hover effects on buttons, cards, and images.
 
 Sticky Navigation Bar for easy navigation.
+
 
 Technologies Used:
 
